@@ -16,3 +16,7 @@
 *.mpr.bak
 /vendorlib/temp/
 .DS_Store
+/app.mpr.bak
+/app.mpr.lock
+/nativemobile/builds/
+/.svn/
